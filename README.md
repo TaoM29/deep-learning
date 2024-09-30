@@ -12,9 +12,7 @@ Each category includes Jupyter Notebooks and Python scripts designed for easy ex
 - [CNN (Convolutional Neural Network)](#cnn-convolutional-neural-network)
 - [Dense Neural Network](#dense-neural-network)
 - [Segmentation Model](#segmentation-model)
-- [Getting Started](#getting-started)
-- [Contribution](#contribution)
-- [License](#license)
+
 
 ### 1. CNN (Convolutional Neural Network)
 - **Folder:** [CNN](CNN/)
