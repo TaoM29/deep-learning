@@ -5,6 +5,7 @@
 - **Convolutional Neural Networks (CNN)**
 - **Dense Neural Networks**
 - **Segmentation Models**
+- **Data Augmentation**
 
 Each category includes Jupyter Notebooks and Python scripts designed for easy experimentation and application.
 
@@ -12,6 +13,7 @@ Each category includes Jupyter Notebooks and Python scripts designed for easy ex
 - [CNN (Convolutional Neural Network)](#cnn-convolutional-neural-network)
 - [Dense Neural Network](#dense-neural-network)
 - [Segmentation Model](#segmentation-model)
+- [Augmentative (Data Augmentation)](#4-augmentative-data-augmentation)
 
 
 ### 1. CNN (Convolutional Neural Network)
@@ -35,4 +37,9 @@ Each category includes Jupyter Notebooks and Python scripts designed for easy ex
   - `segm_template.ipynb`: Interactive Jupyter Notebook for exploring segmentation techniques.
   - `segm_template.py`: Python script for running the segmentation model.
 
+### 4. Augmentative (Data Augmentation)
+- **Folder:** [Augmentative](Augmentative/)
+- **Description:** This project provides a template for applying data augmentation techniques to enhance the diversity of training datasets. Augmentation techniques such as rotation, flipping, zoom, and brightness adjustment are covered.
+- **Files Included:**
+  - `aug.py`: Python script to implement image augmentation techniques for preprocessing datasets in machine learning workflows.
 
